@@ -25,3 +25,4 @@ except:
 #Urllib kütüphanesini kullanılıp,retrieve ve urllencode fonksiyonları kullanılmış.
 #Retrieve fonksiyonu: görseli indirme işlemi yapıyor.
 #Urlencode fonksiyonu : şifreleme işlemini yapıyor.
+# / ASCII'de=>%2F
