@@ -22,7 +22,7 @@ try:
     print("Kare kodunuz "+ imageName +" isimli dosya olarak kayıt edildi.") 
 except:
     print("Bir Hata Oluştu")
-#Urllib kütüphanesini kullanılıp,retrieve ve urllencode fonksiyonları kullanılmış.
-#Retrieve fonksiyonu: görseli indirme işlemi yapıyor.
-#Urlencode fonksiyonu : şifreleme işlemini yapıyor.
+#Urllib kütüphanesini kullanılıp,retrieve ve urllencode fonksiyonları kullanılmıştır.
+#Retrieve fonksiyonu: görseli indirme işlemi yapılıyor.
+#Urlencode fonksiyonu : şifreleme işlemini yapılıyor.
 # / ASCII'de=>%2F
